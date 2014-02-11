@@ -1,4 +1,4 @@
-oink_php_sdk
+Oink PHP SDK
 ============
 
-PHP library that can be used for custom eCommerce integrations
+PHP library that can be used for custom eCommerce integrations.
